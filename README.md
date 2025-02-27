@@ -1,3 +1,3 @@
 hhhhhiiiii
 
-![GitHub Snake](https://github.com/Namiii135/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/Namiil135/Namiil135/output/github-contribution-grid-snake.svg)
