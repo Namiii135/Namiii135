@@ -1,5 +1,5 @@
 mmmnngnggg
-<img src="KAYOKO.png" alt="GitHub Banner" width="100%" />
+<img src="KAYOKO.png" alt="niiiiiiiiiiiiiiii" width="50%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namiii135/Namiii135/output/github-snake-dark.svg" />
