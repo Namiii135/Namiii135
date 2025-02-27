@@ -1,5 +1,6 @@
 mmmnngnggg
-<img src="KAYOKO.png" alt="niiiiiiiiiiiiiiii" width="50%" />
+<img src="KAYOKO.png" alt="niiiiiiiiiiiiiiii" width="30%" />
+<img src="onikata-kayoko-kayoko.gif" alt="niiiiiiiiiiiiiiii" width="30%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namiii135/Namiii135/output/github-snake-dark.svg" />
