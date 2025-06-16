@@ -1,4 +1,5 @@
-mmmnngnggg
+mmmnngnggg 
+![](https://komarev.com/ghpvc/?username=Namiii135&color=grey)
 <img src="KAYOKO.png" alt="niiiiiiiiiiiiiiii" width="30%" />
 <img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="30%" />
 
