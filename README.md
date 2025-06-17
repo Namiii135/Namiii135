@@ -1,7 +1,7 @@
  
 ![](https://komarev.com/ghpvc/?username=Namiii135&color=grey)
-<img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="30%" />
-
+<img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="600" />
+J
 I never knew why I chose this computer science as my path,
 A road paved with logic, cold and vast.
 I never loved it, not even at first glance,
@@ -56,7 +56,7 @@ could it be destiny?
 ⠀⠀⠀⠀⠀⠀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣿⣿⡇⡇⠊⠀⡰⠀⠀⠀⢀⠔⠁⠸⠀⠀⠀⠂⠀⠀⡠⢼⣿⣿⣿⠀⠀⣿⣿⣿⣿⡟⣿⣿⣿⠃⠀⠀⠀⠀⠀⠙⠠⢀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⠀⠀⠀⢸⣿⣿⢽⢡⣀⡰⠀⡀⢀⠔⠁⠀⠔⠁⠀⠀⠀⠀⣰⣎⠀⣾⣿⣿⡿⠀⢠⣿⣿⣿⣿⣇⣿⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠒⠠⢄
 ⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠀⣿⣿⡺⣾⣿⣧⠈⠀⠀⠀⠀⡈⠀⠀⠀⠀⠀⡰⠋⠱⢃⣾⣿⣿⣟⠀⢸⣿⣿⣿⣿⢻⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⢸<img src="output-onlinegiftools.gif" width="3%" />⣿⣿⠁⣺⠟⠀⢆⠀⠀⠀⠐⠈⠐⠠⡀⠀⡜⠁⠒⡄⢫⣾⣿⣿⡯⠀⣾⣿⣿⣿⣿⣼⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⢐⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⣺⠟⠀⢆⠀⠀⠀⠐⠈⠐⠠⡀⠀⡜⠁⠒⡄⢫⣾⣿⣿⡯⠀⣾⣿⣿⣿⣿⣼⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⠐⠀⠀⠀⠀⠀⠀⠠⣿⡟⠀⣺⠀⠀⠘⡄⠀⠀⠇⠀⠀⠀⠀⢸⠁⠨⠒⠕⢸⣸⣿⣿⡯⢀⣿⣿⣿⣿⡯⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⠃⠀⡅⠀⠀⠀⢸⠀⠐⠀⠀⠀⠀⠀⡞⠀⠐⠁⠆⡐⣽⣿⣿⡇⢸⣿⣿⣿⣿⣻⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢡⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⡟⠁⠀⣲⠀⠀⢠⣾⡆⠨⠀⠀⠀⠀⠀⡇⠀⠀⠠⠀⡇⣿⣿⣿⡇⣿⣿⣿⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀
@@ -67,7 +67,8 @@ could it be destiny?
 ⠀⠀⠀⠀⠀⢰⠀⠀⠀⠀⠀⢸⣿⣿⣿⠇⣾⣿⡿⠄⠀⢰⠀⠀⠀⠀⠀⠨⠀⠂⠠⠁⠂⠀⠀⠀⠀⠀⠀⠀⡇⣿⣿⣿⣿⣿⣿⣿⡿⢀⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⣿⣿⣿⡿⢰⣿⣿⠣⠀⠀⢘⠀⠀⠀⠀⡠⠁⠀⠠⠂⠀⠀⠀⠀⠀⠀⠀⠀⢰⢠⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡌⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⡎⠀⠀⠀⠀⢸⣿⣿⣿⠇⣾⣿⣿⠂⠀⠀⢈⠀⠀⠀⡐⠁⠀⣰⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⡬⣸⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣰⠁⠀⠀⠀⠀⣾⣿⣿⡟⢸⣿⡿⠸⠀⠀⠀⢨⠀⠀⠀⠡⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⢀⠄⢊⠁⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<picture>
+⠀⠀⠀⠀⣰⠁⠀⠀⠀⠀⣾⣿⣿⡟⢸⣿⡿⠸⠀⠀⠀⢨⠀⠀⠀⠡⠀⠀⡟⠀⠀⠀⠀⠀⠀⠀⢀⠄⢊⠁⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Namiii135/Namiii135/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Namiii135/Namiii135/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Namiii135/Namiii135/output/github-snake.svg" />
