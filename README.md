@@ -1,6 +1,5 @@
  
 ![](https://komarev.com/ghpvc/?username=Namiii135&color=grey)
-<img src="KAYOKO.png" alt="niiiiiiiiiiiiiiii" width="30%" />
 <img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="30%" />
 J
 I never knew why I chose this computer science as my path,
