@@ -1,6 +1,6 @@
  
 ![](https://komarev.com/ghpvc/?username=Namiii135&color=grey)
-<img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="600" />
+<img src="output-onlinegiftools.gif" alt="niiiiiiiiiiiiiiii" width="600" height="10"/>
 J
 I never knew why I chose this computer science as my path,
 A road paved with logic, cold and vast.
